@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='AccuWeather/main'
 
-MY_IPK="enigma2-plugin-extensions-accuweather_1.2.1_all.ipk"
-MY_DEB="enigma2-plugin-extensions-accuweather_1.2.1_all.deb"
+MY_IPK="enigma2-plugin-extensions-accuweather_1.3_all.ipk"
+MY_DEB="enigma2-plugin-extensions-accuweather_1.3_all.deb"
 
 ########################################################################################################################
 # Auto ... Do not change
